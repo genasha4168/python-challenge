@@ -1,0 +1,9 @@
+Financial Analysis
+ 
+---------------------
+ 
+Total Months: 86
+Total: $22564198
+Average Change $-8311.110000
+Greatest Increase in Profit: 8/16/2025 ($1862002)
+Greatest Decrease in Profit: 2/14/2025 ($-1825558)
